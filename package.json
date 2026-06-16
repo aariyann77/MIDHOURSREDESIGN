@@ -1,0 +1,21 @@
+{
+  "name": "midhours-landing",
+  "version": "1.0.0",
+  "description": "Landing page redesign for MIDHOURS\u00ae \u2014 built for the in-between hours.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "lint:html": "npx --yes html-validate index.html"
+  },
+  "keywords": [
+    "streetwear",
+    "ecommerce",
+    "landing-page",
+    "static-site"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<your-username>/midhours.git"
+  }
+}
